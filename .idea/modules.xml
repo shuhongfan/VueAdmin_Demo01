@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/VueAdmin_Demo01.iml" filepath="$PROJECT_DIR$/.idea/VueAdmin_Demo01.iml" />
       <module fileurl="file://$PROJECT_DIR$/VueAdmin-code/vueadmin-java/vueadmin-java.iml" filepath="$PROJECT_DIR$/VueAdmin-code/vueadmin-java/vueadmin-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vueadmin-springboot/vueadmin-springboot.iml" filepath="$PROJECT_DIR$/vueadmin-springboot/vueadmin-springboot.iml" />
     </modules>
   </component>
 </project>

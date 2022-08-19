@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/VueAdmin-code/vueadmin-java/pom.xml" />
+        <option value="$PROJECT_DIR$/vueadmin-springboot/pom.xml" />
       </list>
     </option>
   </component>
